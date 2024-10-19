@@ -1,0 +1,97 @@
+//
+//  Untitled.swift
+//  UberClone
+//
+//  Created by Tharanga on 2024-10-20.
+//
+
+# Xcode
+#
+.DS_Store
+!/.well-known
+!.well-known/acme-challenge
+*.swp
+*.xcuserstate
+*.xcscmblueprint
+
+# User settings
+#
+xcuserdata/
+DerivedData/
+.idea/
+.vscode/
+
+# Build generated
+#
+build/
+Build/
+*.o
+*.swp
+*.pid
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+# Logs
+#
+*.log
+*.xcactivitylog
+*.actionScript
+*.xccheckout
+*.moved-aside
+*.xcdebugger
+*.xcplugindata
+
+# App files generated
+#
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/xcode
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+
+# Carthage
+#
+Carthage/Build/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+fastlane/Logs/*.log
+
+# Xcode Archives
+#
+*.xcarchive
+
+# Symbolication
+#
+*.bcsymbolmap
+
+# Playgrounds
+#
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift PM Packages
+#
+Package.resolved
+
+# Bundler
+#
+/vendor/bundle
+*.gem
